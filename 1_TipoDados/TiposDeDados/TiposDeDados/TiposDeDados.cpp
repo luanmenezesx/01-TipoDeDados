@@ -76,7 +76,7 @@ int main()
 
 	cout << "Qualquer tecla para sair...";
 	system("pause"); // somente no Windows
-
+	//codigo modificado
 
 }
 
